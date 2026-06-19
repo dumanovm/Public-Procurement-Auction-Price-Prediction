@@ -292,36 +292,6 @@ Future improvements could include feature importance analysis, SHAP interpretati
 
 ---
 
-## Repository Structure
-
-```text
-README.md
-
-ML_Dumanov.ipynb
-
-project_presentation.pdf
-```
-
-Optional, if data publication is allowed:
-
-```text
-data/
-├── train.xlsx
-├── test.xlsx
-```
-
----
-
-## Files
-
-| File | Description |
-|------|-------------|
-| `ML_Dumanov.ipynb` | Full machine learning notebook with preprocessing, feature engineering, modeling, validation, and submission generation |
-| `project_presentation.pdf` | Presentation summarizing the project logic, features, modeling approach, and results |
-| `README.md` | Employer-oriented project overview |
-
----
-
 ## Author
 
 **Maksim Dumanov**
